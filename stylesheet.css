@@ -1,0 +1,69 @@
+
+
+
+body{
+	margin-left: 200px;
+	background-color: #66b3ff
+}
+/*
+
+/* b3d9ff skal være baggrundsfarven på background-color, 66b3ff skal være baggrundsfarven på body *
+h1{
+	margin: 0;
+}
+
+#top-menu-bar {
+	text-align: center;
+	margin: auto;
+	font-size: 180%;
+	color: #262626 ;
+	height: 60%;
+	width: 100%;
+	background-color: #ffffff;
+
+}
+
+#header {
+	text-align: center;
+}
+
+#text-container {
+	align-content: right;
+	margin-top: 1.2%;
+	width: 86%;
+	height: 80%;
+	background-color: #ffffff;
+	float: right;
+	overflow: hidden;
+
+}
+
+#text {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#left-sidebar {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+    /*
+	text-align: left;
+	align-content: left;
+	margin-top: 1.22%;
+	width: 13%;
+	height: 20%;
+	background-color: #ffffff;
+	float: left; */
+    /* Float left, dvs andre content (bokse) vil floate right om 
+       tags med dette id */
+   /* font-size: 70%
+    border: solid
+}
+*/
